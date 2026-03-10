@@ -35,3 +35,14 @@ O Pull Request é uma solicitação para que as alterações feitas em uma branc
 ## Merge
 O Merge é o processo de juntar as alterações de uma branch com a branch principal do projeto.
 Alteração feita na nova branch.
+
+
+<img width="1318" height="395" alt="image" src="https://github.com/user-attachments/assets/7e2f6ecc-969a-45da-8555-213de482c77a" />
+
+<img width="1306" height="613" alt="image" src="https://github.com/user-attachments/assets/e89cb8e0-6bc6-49e9-94ef-ec0893c4c606" />
+
+ <img width="442" height="515" alt="image" src="https://github.com/user-attachments/assets/6724ff28-3687-4405-8301-4882c738c257" />
+
+ <img width="1208" height="627" alt="image" src="https://github.com/user-attachments/assets/8247f42a-883b-453d-a9fe-2efa796beb40" />
+
+ 
