@@ -1,6 +1,6 @@
 # Aula 05 - GitHub
 
-Aluno: Seu Nome
+Aluno: Alef Soares Macedo
 
 ## Criação do repositório
 A criação do repositório é o primeiro passo para iniciar um projeto no GitHub. Ele funciona como uma pasta online onde ficam armazenados os arquivos do projeto.
